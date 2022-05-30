@@ -25,8 +25,8 @@ entered along side the names.
 
 COMP 155 Final Project (Introduction to Object Oriented Programming)
 
-* Wilson
-* Alyssa 
-* Callum 
-* Yuyang 
-* Daniel 
+* Wilson Agyapong
+* Alyssa Barski
+* Callum Brezden
+* Yuyang Liu 
+* Daniel Qin
